@@ -24,8 +24,8 @@ https://gutendex.com/
 
 **Funcionamiento 👁️:**
    - Opción 1 - Registro en BD, de libro de API, por TITULO:
-     
-	![Paso 1a](https://raw.githubusercontent.com/4ndersiTo/literAlura/main/img_readme/img_api.PNG)
+
+        ![Paso 1a](https://raw.githubusercontent.com/4ndersiTo/literAlura/main/img_readme/img_api.PNG)
 	![Paso 1b](https://raw.githubusercontent.com/4ndersiTo/literAlura/main/img_readme/opcion%201.PNG)
 	![Paso 1c](https://github.com/4ndersiTo/literAlura/blob/main/img_readme/opcion%201%20BD.PNG?raw=true)
  
