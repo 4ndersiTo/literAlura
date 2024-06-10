@@ -24,9 +24,11 @@ https://gutendex.com/
 
 **Funcionamiento 👁️:**
    - Opción 1 - Registro en BD, de libro de API, por TITULO:
+     
 	![Paso 1a](https://raw.githubusercontent.com/4ndersiTo/literAlura/main/img_readme/img_api.PNG)
 	![Paso 1b](https://raw.githubusercontent.com/4ndersiTo/literAlura/main/img_readme/opcion%201.PNG)
 	![Paso 1c](https://github.com/4ndersiTo/literAlura/blob/main/img_readme/opcion%201%20BD.PNG?raw=true)
+ 
    - Opción 2 - Libros registrados en BD:
 	![Paso 2](https://github.com/4ndersiTo/literAlura/blob/main/img_readme/opcion%202.PNG?raw=true)
 	
@@ -40,6 +42,7 @@ https://gutendex.com/
     	![Paso 5](https://github.com/4ndersiTo/literAlura/blob/main/img_readme/opcion%205.PNG?raw=true)
 
    - Opción 0 - Salir
+     
     	![Paso 6](https://github.com/4ndersiTo/literAlura/blob/main/img_readme/opcion%200.PNG?raw=true)
 
 
